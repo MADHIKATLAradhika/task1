@@ -7,3 +7,7 @@ void main()
 {
 printf("sum of 2 numbers %d",30+20);
 }
+void main()
+{
+printf("Multiplication :%d * %d = %d",2,3,2*3);
+}
