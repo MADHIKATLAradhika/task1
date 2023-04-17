@@ -7,3 +7,6 @@ void main()
 {
 printf("sum of 2 numbers %d",30+20);
 }
+void main() {
+printf("Division of 2 numbers %d",20/10);
+}
