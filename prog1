@@ -3,3 +3,7 @@ void main()
 {
     printf("HELLOWORLD!");
  }
+void main()
+{
+printf("sum of 2 numbers %d",30+20);
+}
